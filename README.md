@@ -1,0 +1,1 @@
+# zinox-miner-bot
